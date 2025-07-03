@@ -141,14 +141,6 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Elvan .",
-    imgPath: "/images/exp1.png",
-    logoPath: "/images/logo1.png",
-    title: " ",
-    date: "January 2024 - Present",
-    responsibilities: [],
-  },
-  {
     review:
       "Elvan contributed to improving AI model responses by reviewing prompts and content. He approaches challenges with a strong problem-solving mindset.",
     imgPath: "/images/exp2.png",
@@ -160,6 +152,15 @@ const expCards = [
       "Assessed prompt relevance, ranking model responses for accuracy, fluency, and ethical alignment.",
       "Maintained high-quality output while meeting strict deadlines under minimal supervision.",
     ],
+  },
+
+  {
+    review: "Elvan .",
+    imgPath: "/images/exp1.png",
+    logoPath: "/images/logo1.png",
+    title: " ",
+    date: "January 2024 - Present",
+    responsibilities: [],
   },
 ];
 
