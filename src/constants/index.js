@@ -146,7 +146,7 @@ const expCards = [
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
     title: "Data Labeler for AI Training",
-    date: "Januart 2025 - June 2025",
+    date: "November 2024 - June 2025",
     responsibilities: [
       "Evaluated and annotated AI-generated content (text/image) to improve large language model (LLM) performance.",
       "Assessed prompt relevance, ranking model responses for accuracy, fluency, and ethical alignment.",
